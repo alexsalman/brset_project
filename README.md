@@ -19,7 +19,7 @@ Deep learning systems have revolutionized diabetic retinopathy (DR) screening, b
 If you use this work, please cite it as:
 
 ```bibtex
-@misc{salman2025als_ml_dl,
+@misc{salman2025BRSET_DR,
   author       = {Ali Salman and Ernesto Iadanza},
   title        = {Beyond correlation: multimodal causal inference and deep learning for assessing insulin's impact on diabetic retinopathy progression},
   year         = {2025},
