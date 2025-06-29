@@ -25,7 +25,7 @@ If you use this work, please cite it as:
   year         = {2025},
   institution  = {Department of Medical Biotechnologies - University of Siena, Siena, Italy},
   note         = {Available on GitHub: https://github.com/alexsalman/brset_project},
-  url          = {[https://github.com/alexsalman/GNB2025](https://github.com/alexsalman/brset_project)},
+  url          = {https://github.com/alexsalman/brset_project},
   urldate      = {2025-06-30}
 }
 
